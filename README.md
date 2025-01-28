@@ -16,7 +16,7 @@ Amigo Secreto es una aplicación interactiva donde los usuarios pueden ingresar 
 ## 🚀 Cómo Descargar y Usar el Proyecto
 1. **Descarga el Proyecto**;
 -Puedes clonar este repositorio utilizando Git:
-[git clone https://github.com/tuusuario/amigo-secreto.git](https://github.com/SCARLXRD-1/Amigo-Secreto.git)
+https://github.com/SCARLXRD-1/Amigo-Secreto.git
 O descarga el archivo .zip directamente desde GitHub y extrae el contenido en tu computadora.
 2. **Abre el archivo principal**:
 Navega a la carpeta del proyecto y abre `index.html` en tu navegador.
